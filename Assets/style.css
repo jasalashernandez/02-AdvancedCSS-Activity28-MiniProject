@@ -1,0 +1,37 @@
+body {
+  background-color:grey;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+header {
+    color: white;
+}
+
+.main-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 60px;
+  color: #fff;
+}
+
+.card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  flex: 25%
+}
+
+.card header {
+  position: relative;
+  margin-top: -20px;
+  padding: 5px;
+  color: #fff;
+  border-style:solid;
+  border-color: white;
+
+}
