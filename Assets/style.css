@@ -1,5 +1,5 @@
 body {
-  background-color:grey;
+  background-color: grey;
 }
 
 main {
@@ -8,7 +8,7 @@ main {
 }
 
 header {
-    color: white;
+  color: white;
 }
 
 .main-header {
@@ -23,7 +23,7 @@ header {
   border-style: solid;
   border-width: 1px;
   border-color: white;
-  flex: 25%
+  flex: 25%;
 }
 
 .card header {
@@ -31,7 +31,6 @@ header {
   margin-top: -20px;
   padding: 5px;
   color: #fff;
-  border-style:solid;
+  border-style: solid;
   border-color: white;
-
 }
